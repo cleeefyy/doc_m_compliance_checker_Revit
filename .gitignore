@@ -1,0 +1,16 @@
+# Visual Studio generated files
+*.suo
+*.user
+*.csproj.user
+*.vs
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Python virtual environment
+venv/
+
+# Rider / Resharper files
+.idea/
+*.sln.DotSettings.user
